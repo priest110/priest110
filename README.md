@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="avatar" align="center">
-  <img src="https://raw.githubusercontent.com/priest110/priest110/main/mini_avatar.png" alt="Avatar"/>
+  <img height="300px" src="https://raw.githubusercontent.com/priest110/priest110/main/mini_avatar.png" alt="Avatar"/>
 </div>
 <div id="logos" align="center">
   <a href="#">
