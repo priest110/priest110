@@ -35,6 +35,5 @@ Here are some ideas to get you started:
 <div>
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=priest110&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <p/>
-  <p/>
   <img style="height: 195px !important"  alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priest110&layout=compact&theme=dark" />
 </div>
