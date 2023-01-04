@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img height="300px" src="https://raw.githubusercontent.com/priest110/priest110/main/mini_avatar.png" alt="Avatar"/>
 </div>
 <div id="logos" align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/ruinbcoliveira/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rui.nbc.oliveira@gmail.com">
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <h1>Hey there!</h1>
 </div>
 <div>
-  <span>My name is Rui Oliveira, and I'm a Software Engineer from Braga, Portugal. You can learn more about me and my experience by visiting my personal portfolio. </span>
+  <span>My name is Rui Oliveira, and I'm a Software Engineer from Braga, Portugal. You can learn more about me and my experience by visiting my personal <a href="https://priest110.github.io/">portfolio</a>. </span>
 </div>
 
 ## :bar_chart: Some statistics about my activity and languages used
