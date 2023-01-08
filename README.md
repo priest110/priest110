@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <span>My name is Rui Oliveira, and I'm a Software Engineer from Braga, Portugal. You can learn more about me and my experience by visiting my personal <a href="https://priest110.github.io/">portfolio</a>. </span>
 </div>
 
-## :bar_chart: Some statistics about my activity and languages used
+## :bar_chart: Some stats about my activity and languages used
 <div>
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=priest110&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <p/>
