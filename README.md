@@ -13,12 +13,11 @@
   <h1>Hey there, I'm Rui! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 </div>
 
-## About me
 - 🏠 Braga, Portugal
 - 💻 Sofware Engineer
 - ℹ️ See more on my [website](https://priest110.github.io/)! 
 
-## Some stats about my activity and languages used
+## 📊 Some stats about my activity and languages used
 <div>
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=priest110&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" />
   <p/>
