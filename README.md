@@ -1,4 +1,4 @@
-<table border="0" cellspacing="0" style="display:flex">
+<table border="0" cellspacing="0" >
   <tr>
     <td width="30%">
       <img align="left" width="200px" src="https://raw.githubusercontent.com/priest110/priest110/main/mini_avatar.png" alt="Avatar"/>
