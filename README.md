@@ -1,11 +1,7 @@
-<table border="0" cellspacing="0" >
-  <tr>
-    <td width="30%">
-      <img align="left" width="200px" src="https://raw.githubusercontent.com/priest110/priest110/main/mini_avatar.png" alt="Avatar"/>
-    </td>
-    <td>
-      <h1>Hey there, I'm Rui! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-      <a href="https://www.linkedin.com/in/ruinbcoliveira/">
+<img align="left" width="125px" src="https://raw.githubusercontent.com/priest110/priest110/main/mini_avatar.png" alt="Avatar"/>
+
+<h1>Hey there, I'm Rui! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<a href="https://www.linkedin.com/in/ruinbcoliveira/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=round-square"/>
 </a>
 <a href="mailto:rui.nbc.oliveira@gmail.com">
@@ -14,9 +10,6 @@
 <a href="https://priest110.github.io/">
   <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&style=round-square"/>
 </a>
-    </td>
-  </tr>
-</table>
 
 ## About me
 
