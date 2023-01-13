@@ -13,7 +13,7 @@
 
 ## About me
 
-I am a software engineer from Braga, Portugal, who enjoys researching, creating, and developing new things. I am particularly interested in Distributed Systems, Fault Tolerance, Performance & Optimization, and Distributed & Parallel Computing. 
+I'm a software engineer from Braga, Portugal, who enjoys researching, creating, and developing new things. I am particularly interested in Distributed Systems, Fault Tolerance, Performance & Optimization, and Distributed & Parallel Computing. 
 
 
 ## Some stats about my activity and languages used</h2>
