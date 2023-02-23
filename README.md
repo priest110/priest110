@@ -16,8 +16,6 @@
 I'm a software engineer from Braga, Portugal, who enjoys researching, creating, and developing new things. I am particularly interested in Distributed Systems, Fault Tolerance, Performance & Optimization, and Distributed & Parallel Computing. 
 
 
-## Some stats about my activity and languages used</h2>
+## Around here
 
 <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=priest110&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" />
-
-<img style="height: 195px !important"  alt="Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=priest110&hide_progress=true&langs_count=10&theme=react" />
