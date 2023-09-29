@@ -18,4 +18,4 @@ I'm a software engineer from Braga, Portugal, who enjoys researching, creating, 
 
 ## Around here
 
-<img alt="GitHub Stats" src="https://github-readme-stats-eight-beta-47.vercel.app/api?username=priest110&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+<img alt="GitHub Stats" src="https://github-readme-stats-eight-beta-47.vercel.app/api?show_icons=true&theme=react&include_all_commits=true&count_private=true" />
