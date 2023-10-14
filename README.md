@@ -13,9 +13,12 @@
 
 ## About me
 
-I'm a software engineer from Braga, Portugal, who enjoys researching, creating, and developing new things. I am particularly interested in Distributed Systems, Fault Tolerance, Performance & Optimization, and Distributed & Parallel Computing. 
+I'm a software engineer from Braga, Portugal, who enjoys researching, creating, and developing new things. I am particularly interested in Distributed Systems, Application Security, and Performance & Optimization.
 
+### Professional work
+- Currently, I am working at [Checkmarx](https://checkmarx.com/), and you can find some of my contributions [here](https://github.com/cx-ruio).
 
 ## Around here
 
 <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=priest110&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+
