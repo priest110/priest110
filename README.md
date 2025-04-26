@@ -12,4 +12,4 @@
 I'm a software engineer from Braga, Portugal, who enjoys researching, creating, and developing new things. I am particularly interested in Distributed Systems, Application Security, and Performance & Optimization.
 
 ### Professional work
-- Currently, I am working at [Checkmarx](https://checkmarx.com/), and you can find some of my contributions [here](https://github.com/cx-ruio).
+- Currently, I am working at [Checkmarx](https://checkmarx.com/), and you can find some of my contributions [here](https://github.com/cx-rui-oliveira).
